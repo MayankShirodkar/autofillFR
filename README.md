@@ -1,5 +1,8 @@
 # autofillFR
 
+## Note:
+This project is no longer under development. My current skills and understanding of how OCR and web automation works are insufficient to conplete this project. I may return to the project when I feel I have sufficient skills. Until then contributions are welcome.
+
 ## Purpose:
 
 This project is meant to be a product that streamlines the process that hotels and guesthouses must do to enter the details of travellers on the appropriate website. The program is meant to take a photo of the traveller's passport and using OCR pick out the relevant details needed for the form. Then the program must make a post request to the appropriate webform with these details. 
